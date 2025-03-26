@@ -76,7 +76,8 @@ Use Aptos CLI or a frontend dApp to interact with the contract:
 Contributions and suggestions are welcome! Open a pull request or reach out with any feature requests.
 
 ---
-contract addresses
+## **Contract address**
+0xd27954a610f78136e77a6c5ccaf7540ed243dfe1e8c7a3e1def65ee4a7b3c8d2
 ![Screenshot 2025-03-26 100914](https://github.com/user-attachments/assets/47313ac9-38bb-4f00-ad5c-ae107f343f6c)
 
 
